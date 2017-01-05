@@ -1,0 +1,11 @@
+﻿  Source.cpp
+j:\c++\finalproject\finalprojectprototype\graphics.h(18): warning C4007: 'WinMain': must be '__stdcall'
+j:\c++\finalproject\finalprojectprototype\graphics.h(346): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\c++\finalproject\finalprojectprototype\graphics.h(375): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\c++\finalproject\finalprojectprototype\graphics.h(404): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\c++\finalproject\finalprojectprototype\graphics.h(433): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\c++\finalproject\finalprojectprototype\graphics.h(462): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\c++\finalproject\finalprojectprototype\graphics.h(491): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+j:\c++\finalproject\finalprojectprototype\source.cpp(22): warning C4007: 'WinMain': must be '__stdcall'
+  FinalProjectPrototype.vcxproj -> J:\c++\FinalProject\Debug\FinalProjectPrototype.exe
+  FinalProjectPrototype.vcxproj -> J:\c++\FinalProject\Debug\FinalProjectPrototype.pdb (Full PDB)
